@@ -20,11 +20,11 @@ A client-server system for remotely controlling smart home functions ( stubs are
 
 - ### Server
 
-Run `smart_home_server.exe` to start listening on port 54001.
+Run `lab9_server.exe` to start listening on port 54001.
 
 - ### Client
 
-Run `smart_home_client.exe` to connect to the server at 127.0.0.1:54001.
+Run `lab9_client.exe` to connect to the server at 127.0.0.1:54001.
 
 To connect to a remote server, modify the IP address in the client source code.
 

@@ -1,0 +1,3 @@
+﻿  lab9_client.cpp
+D:\Projects\cpp\lab9\lab9_client\lab9_client.cpp(95,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  lab9_client.vcxproj -> D:\Projects\cpp\lab9\x64\Debug\lab9_client.exe

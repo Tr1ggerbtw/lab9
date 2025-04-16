@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "lab9_server\\lab9_server.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "lab9_client\\lab9_client.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

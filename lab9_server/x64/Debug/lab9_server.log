@@ -1,0 +1,4 @@
+﻿  lab9_server.cpp
+D:\Projects\cpp\lab9\lab9_server\lab9_server.cpp(168,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\cpp\lab9\lab9_server\lab9_server.cpp(151,37): warning C4101: 'e': unreferenced local variable
+  lab9_server.vcxproj -> D:\Projects\cpp\lab9\x64\Debug\lab9_server.exe

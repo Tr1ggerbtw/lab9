@@ -49,7 +49,4 @@ If connection fails:
 - Check Windows Firewall settings
 - Verify port 54001 is available
 - Check server IP address in client code
-
-## License
-
-MIT
+- 
